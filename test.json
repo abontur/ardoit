@@ -1,0 +1,11 @@
+{
+  "tasks":[
+    {
+      "id": 1,
+      "title": "Init a todo app creation",
+      "description": "Create an todo app",
+      "status": "In-Progress",
+      "creation_time": "2023-10-24 09:17:11.831021 +02:00"
+    }
+  ]
+}
